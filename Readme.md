@@ -1,4 +1,5 @@
 # Applied-Econometrics
+
 ## Course Summary
 Applied Econometrics is a course that focuses on the practical application of statistical and econometric techniques to analyze economic data and test economic theories. It is designed to provide students with the necessary tools and skills to conduct empirical research in economics and make informed policy decisions. Here is a summary of the main topics covered in an Applied Econometrics course:
 
